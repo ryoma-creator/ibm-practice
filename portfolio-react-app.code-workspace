@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../Portfolio/portfolio-react-app"
+		},
+		{
+			"path": "../Portfolio/Progress"
+		},
+		{
+			"path": "../Portfolio/weather-app-react"
+		},
+		{
+			"path": "../Portfolio/cv-app"
+		},
+		{
+			"path": "../Portfolio/todo-app"
+		},
+		{
+			"path": "../Portfolio/tutorial-tic-tac-toe"
+		},
+		{
+			"path": "../Portfolio/ecommerce-shop"
+		},
+		{
+			"path": "../Portfolio/nextjs-dashboard"
+		},
+		{
+			"path": "../Portfolio/practice-nextjs-react-js"
+		},
+		{
+			"path": "../Portfolio/portfolio-3"
+		},
+		{
+			"path": "../Portfolio/raect-interview-ryoma-original"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio-react-app"
+	}
+}
